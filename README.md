@@ -1,2 +1,2 @@
 # Computer Networking
-This repository will hold files from my Computer Networking class (Spring 2024)
+This repository will hold files from my Computer Networking class 
