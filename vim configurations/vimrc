@@ -1,0 +1,10 @@
+syntax enable
+set nu
+set ruler
+set relativenumber
+set encoding=UTF-8
+set bs=2
+set tabstop=4
+set expandtab
+autocmd FileType make setlocal noexpandtab
+autocmd FileType make setlocal tabstop=8
